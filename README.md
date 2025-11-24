@@ -1,4 +1,4 @@
-# Car-sales
+# Car-sales 🚗📊
 
 ## Overview
 This project analyzes car sales data (2007–2015) for a South African dealership using Excel pivot tables, charts, and SQL.It explores trends in *revenue, units sold, average price, mileage, market position, and car type (luxury vs. non-luxury)*.
